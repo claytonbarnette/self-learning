@@ -2,20 +2,6 @@
 
 The Listing of Certificates of Completions that are contained in this repo are a collection of all of the certs I have received online while using [Lynda.com](https://www.lynda.com) which is now [Linkedin Learning](https://www.linkedin.com/learning). I hava a few that are from other sites, as I continue to learn and complete additional certs, I will add them.
 
-
-# Certificates of Completion Learning:
-
-- [AWS](./AWS) - One course for AWS, learned a lot, but like GCP and Azure as well. 
-- [2019](./2019)
-- [2018](./2018)
-- [2017](./2017)
-- [2016](./2016)
-- [2015](./2015)
-- [2014](./2014)
-- [2013](./2013)
-- [2012](./2012)
-- [RETIRED Courses](./retired)
-
 ## How do I keep up?
 To keep up with the ever changing landscape of the web, I use **Linkedin Learning** as a tool to learn new things quickly and to revisit or relearn existing technologies I may not have had time to revisit or learn in the past. I also use it as a starting point to learning in general and also spend a large amount of time on the developer sites of open-source projects and emerging technologies and methodologies. This gives me an endless amount of learning resources I use to stay current or ahead of the curve as I continue my path of life-long-learning.
 
