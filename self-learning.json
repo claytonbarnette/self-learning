@@ -1,0 +1,1424 @@
+[
+    {
+        "course":"Learning the Python 3 Standard Library",
+        "completed":"May 7, 2019",
+        "length":"02:09:00",
+        "skill":["Python Programming"],
+        "certificate-id":"AWiYsXDKyrm9Ji6bje9Mzg2tTkaW",
+        "path":"2019/CertificateOfCompletion_Learning The Python 3 Standard Library.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Jenkins",
+        "completed":"Jul 18, 2018",
+        "length":"01:20:00",
+        "skills":["Jenkins"],
+        "certificate-id":"AWDznMG_a1JxOqnY1_EGNapoNPXE",
+        "path":"2018/CertificateOfCompletion_Learning Jenkins.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"DevOps Foundations",
+        "completed":"May 5, 2019",
+        "length":"02:53:00",
+        "skills":["System Administration", "IT Automation"],
+        "certificate-id":"AWc8k-Lr1xpI0ar2hHwjSuGsF9HE",
+        "path":"2019/CertificateOfCompletion_Devops Foundations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"First Look: Rust",
+        "completed":"Jul 22, 2018",
+        "length":"02:17:00",
+        "skills":["Rust Programming"],
+        "certificate-id":"Abw3XoMBmtNgTMMBjD6AqXWsNBtD",
+        "path":"2018/CertificateOfCompletion_First Look Rust.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Spring: Spring MVC",
+        "completed":"Apr 28, 2019",
+        "length":"01:30:00",
+        "skills":["Back-End Web Development", "Spring"],
+        "certificate-id":"AdKuAsSwAMybY6_SjrAsPlgm1HHR",
+        "path":"2019/CertificateOfCompletion_Spring Spring Mvc.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"C++ Best Practices for Developers",
+        "completed":"Apr 28, 2019",
+        "length":"00:50:00",
+        "skills":["C++ Best Practices"],
+        "certificate-id":"AYVCLpJyGr1wEYQj2JwzKpeUpNXa",
+        "path":"2019/CertificateOfCompletion_C Plus Plus Best Practices For Developers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"HTML5: Document Editing",
+        "completed":"Apr 28, 2019",
+        "length":"00:23:00",
+        "skills":["Front-end Development", "HTML"],
+        "certificate-id":"AZGOZcNDWhUT1igE17Qq5cHCzV2V",
+        "path":"2019/CertificateOfCompletion_Html5 Document Editing.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"C++ Essential Training",
+        "completed":"Apr 28, 2019",
+        "length":"05:32:00",
+        "skills":["C++ Programming"],
+        "certificate-id":"AUxGm0835Z_dNRO0Qe8Nxuxpqyxq",
+        "path":"2019/CertificateOfCompletion_C Plus Plus Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Gradle for Java Developers",
+        "completed":"Apr 25, 2019",
+        "length":"02:22:00",
+        "skills":["Java","Gradle"],
+        "certificate-id":"AfRBCwyQi1aximuSWFyZvznIvjxc",
+        "path":"2019/CertificateOfCompletion_Gradle For Java Developers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Multi Module Build Automation with Maven",
+        "completed":"Apr 23, 2019",
+        "length":"01:00:00",
+        "skills":[" Java", "Apache"],
+        "certificate-id":"AQBEUbXYM2rWOZTcWXXZWKFqU0oP",
+        "path":"2019/",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"PHP: Design Patterns",
+        "completed":"Apr 16, 2019",
+        "length":"01:09:00",
+        "skills":["Back-End Web Development", "PHP", "Design Patterns"],
+        "certificate-id":"AX3nhsuujCxgCRdWRXc7eqbBa8Jl",
+        "path":"2019/CertificateOfCompletion_Php Design Patterns.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Hadoop",
+        "completed":"Mar 11, 2016",
+        "length":"04:48:00",
+        "skills":["Apache", "Big Data"],
+        "certificate-id":"AaUk5pJl4R1eoxB0u94u4wUSOAb7",
+        "path":"2016/CertificateOfCompletion_Learning Hadoop.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning CoffeeScript",
+        "completed":"Oct 5, 2014",
+        "length":"01:48:00",
+        "skills":["CoffeeScript", "Front-end Development"],
+        "certificate-id":"AaOfYhRW87ruT61TImMrwcXhUlCd",
+        "path":"2014/CertificateOfCompletion_Learning Coffeescript.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Studio One 3",
+        "completed":"Jun 26, 2017",
+        "length":"05:22:00",
+        "skills":["Audio Mixing", "Audio Recording"],
+        "certificate-id":"AaJ5oywCXFD7O84q7NxV6m6qc7UH",
+        "path":"2017/CertificateOfCompletion_Learning Studio One 3.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Motion Graphic Design: Animation",
+        "completed":"Mar 29, 2019",
+        "length":"01:11:00",
+        "skills":["Animation", "After Effects"],
+        "certificate-id":"ARj611IohsuCO8KR16Yde8KuaPGY",
+        "path":"2019/CertificateOfCompletion_Motion Graphic Design Animation.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Advanced Linux: The Linux Kernel",
+        "completed":"Mar 19, 2019",
+        "length":"02:47:00",
+        "skills":["System Administration", "Linux Kernel"],
+        "certificate-id":"AXfGYlQS9yDoKufyNhd1Q_HpmQTZ",
+        "path":"2019/CertificateOfCompletion_Advanced Linux The Linux Kernel.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Delivering Video in Web Experiences",
+        "completed":"Oct 20, 2018",
+        "length":"02:54:00",
+        "skills":["After Effects", "Adobe Premiere Pro"],
+        "certificate-id":"AT_WVRne_WzG1p1Gz7360pXRBKEs",
+        "path":"2018/CertificateOfCompletion_Delivering Video In Web Experiences.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Blender: Cloth Simulation",
+        "completed":"Mar 19, 2019",
+        "length":"02:00:00",
+        "skills":["3D Modeling", "Particle Effects", "Blender"],
+        "certificate-id":"AdBJ51g_krpHzovj7duzW6Zh6swH",
+        "path":"2019/CertificateOfCompletion_Blender Cloth Simulation.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Mathematica 11 Essential Training",
+        "completed":"Feb 19, 2019",
+        "length":"03:19:00",
+        "skills":["Mathematica", "Data Analysis"],
+        "certificate-id":"AYa7kedmWdiDAcWwe3U6bJ6an6jW",
+        "path":"2019/CertificateOfCompletion_Mathematica 11 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning to Build Alexa Skills",
+        "completed":"Mar 18, 2019",
+        "length":"01:45:00",
+        "skills":["Amazon Web Services (AWS)", "Alexa Skills Development"],
+        "certificate-id":"AWhVvzkdJ6mvwfjmCLnkB7T67xqk",
+        "path":"2019/CertificateOfCompletion_Learning To Build Alexa Skills.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"12 Principles of Animation for CG Animators",
+        "completed":"Mar 17, 2019",
+        "length":"01:23:00",
+        "skills":["3D Studio Max", "Animation Principles"],
+        "certificate-id":"Aba8v7mmfkMDumiJEUPew33qYkIR",
+        "path":"2019/CertificateOfCompletion_12 Principles Of Animation For Cg Animators.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"C# for Unity Game Development",
+        "completed":"Mar 17, 2019",
+        "length":"01:37:00",
+        "skills":["Unity", "Game Development"],
+        "certificate-id":"AdVDFfrcgWg9M7XVtYamTdoCPNNK",
+        "path":"2019/CertificateOfCompletion_C Sharp For Unity Game Development.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"GMUNK's 3D-Rendered Geometric Art Series: Start to Finish",
+        "completed":"Feb 18, 2016",
+        "length":"00:12:00",
+        "skills":["Digital Illustration", "Illustration"],
+        "certificate-id":"AT26xp9FdmgF2YmCVBMtTi6YgsvE",
+        "path":"2016/CertificateOfCompletion_Gmunk S 3d Rendered Geometric Art Series Start To Finish.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Backbone.js",
+        "completed":"Sep 15, 2014",
+        "length":"01:34:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"AYgtX4mNVxKw1hP0o-TqmrBSnh7l",
+        "path":"2014/CertificateOfCompletion_Learning Backbone Js.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Logo Design: Shapes and Symbols",
+        "completed":"Jan 27, 2014",
+        "length":"01:41:00",
+        "skills":["Logo Design"],
+        "certificate-id":"AbmedWSpM0r6Aqkf4PII1H54K03A",
+        "path":"2014/CertificateOfCompletion_Logo Design Shapes And Symbols.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Leadership Foundations",
+        "completed":"Oct 14, 2013",
+        "length":"00:00:00",
+        "skills":["Organizational Leadership", "Leadership"],
+        "certificate-id":"AQXX_QcCFxmah9Iq31n53m8XaU8v",
+        "path":"2013/CertificateOfCompletion_Leadership Foundations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Bootstrap 2",
+        "completed":"Aug 30, 2013",
+        "length":"02:38:00",
+        "skills":["Bootstrap", "Front-end Development"],
+        "certificate-id":"AXh551vphQLMNiT9yhd7I3xTaUJ4",
+        "path":"2013/CertificateOfCompletion_Learning Bootstrap 2.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"After Effects CS6 Essential Training",
+        "completed":"Sep 29, 2012",
+        "length":"08:41:00",
+        "skills":["Animation", "Keying", "Motion Graphics"],
+        "certificate-id":"AbczVmgnmJGS6vJtyG6lffthhphn",
+        "path":"2012/CertificateOfCompletion_After Effects Cs6 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Rigging a Humanoid Character with Blender",
+        "completed":"May 26, 2018",
+        "length":"01:22:00",
+        "skills":["Blender", "Rigging"],
+        "certificate-id":"AW_B_0QTtxhPyrLmKZ_cwPfLtZW5",
+        "path":"2018/CertificateOfCompletion_Rigging A Humanoid Character With Blender.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Google Apps Script for JavaScript Developers",
+        "completed":"Mar 12, 2019",
+        "length":"01:18:00",
+        "skills":["Google Docs", "Web Applications"],
+        "certificate-id":"AfL0dck40Md97MKAl3CQf7z_uGQp",
+        "path":"2019/CertificateOfCompletion_Google Apps Script For Javascript Developers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"C# Framework Design",
+        "completed":"Mar 12, 2019",
+        "length":"00:49:00",
+        "skills":["C#"],
+        "certificate-id":"Af_Y3U_lpqkh1zDh2hskNutAQv7T",
+        "path":"2019/CertificateOfCompletion_C Sharp Framework Design.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"After Effects Apprentice: 01 Pre-Roll",
+        "completed":"Sep 18, 2012",
+        "length":"00:29:00",
+        "skills":["Animation", "After Effects"],
+        "certificate-id":"AVEcOVb04yROxlH7to6MZDz62r7X",
+        "path":"2012/CertificateOfCompletion_After Effects Apprentice 01 Pre Roll.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Elearning Essentials: Storyboarding",
+        "completed":"Oct 26, 2018",
+        "length":"01:05:00",
+        "skills":["Articulate Storyline", "Microsoft PowerPoint"],
+        "certificate-id":"AUnN6OAprtlfVLdDGoV0vzmkI_Gw",
+        "path":"2018/CertificateOfCompletion_Elearning Essentials Storyboarding.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Python Generators",
+        "completed":"Mar 2, 2019",
+        "length":"00:44:00",
+        "skills":["Python Programming"],
+        "certificate-id":"AYSGNNjuq01G9JIuGOXffCEB36d6",
+        "path":"2019/CertificateOfCompletion_Learning Python Generators.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Premiere Pro CS6 Essential Training",
+        "completed":"Sep 14, 2012",
+        "length":"06:59:00",
+        "skills":["Video Color Grading", "Keying", "Video Editing"],
+        "certificate-id":"AeWBqPUwmVOzpT2MdXJ6RRF0baqH",
+        "path":"2012/CertificateOfCompletion_Premiere Pro Cs6 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Spring: Framework In Depth",
+        "completed":"Dec 26, 2018",
+        "length":"02:16:00",
+        "skills":["Back-End Web Development", "Spring Framework", "Spring"],
+        "certificate-id":"ARO4CbyUmAVedoXCFsAFTmnI2Vr0",
+        "path":"2018/CertificateOfCompletion_Spring Framework In Depth.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Digital Media Foundations",
+        "completed":"Feb 23, 2019",
+        "length":"02:14:00",
+        "skills":["Software Design", "Animation"],
+        "certificate-id":"AYsSMv1qm9zL8UYi85_N3a5sjW6E",
+        "path":"2019/",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Algebra: Pre-Algebra",
+        "completed":"Apr 7, 2016",
+        "length":"02:39:00",
+        "skills":["Software Design", "Animation"],
+        "certificate-id":"AaDxKw_ehemM4P3hy7zeKeCHmRil",
+        "path":"2016/CertificateOfCompletion_Learning Algebra Pre Algebra.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Advanced npm",
+        "completed":"Feb 16, 2019",
+        "length":"00:42:00",
+        "skills":["Back-End Web Development", "Node.js", "NPM"],
+        "certificate-id":"AWDIe2WKpVRm6AkhuNy9G6ujOND",
+        "path":"2019/CertificateOfCompletion_Advanced Npm.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Building APIs with LoopBack",
+        "completed":"Jan 16, 2019",
+        "length":"01:46:00",
+        "skills":["Back-End Web Development", "Node.js", "APIs"],
+        "certificate-id":"ASZrY2-HjPRpB24EzOddpY5ijUho",
+        "path":"2019/CertificateOfCompletion_Building Apis With Loopback.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Go",
+        "completed":"Jul 9, 2016",
+        "length":"03:48:00",
+        "skills":["Go Programming"],
+        "certificate-id":"AaXA9NFieYcaRVJzJZ5GxYoI1ER2",
+        "path":"2016/CertificateOfCompletion_Learning Go.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Git Essential Training",
+        "completed":"Sep 13, 2014",
+        "length":"06:25:00",
+        "skills":["Github", "Git"],
+        "certificate-id":"Ad5qSn4GZPWdk8qnijD5qq9fNa7I",
+        "path":"2014/CertificateOfCompletion_Git Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Vanilla JavaScript: Service Workers",
+        "completed":"Jan 27, 2019",
+        "length":"03:36:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"ASGN1_PFnM1hsDknbxd7CnjR3ozU",
+        "path":"2019/CertificateOfCompletion_Vanilla Javascript Service Workers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"First Look: Java 10 and Java 11",
+        "completed":"Jan 27, 2019",
+        "length":"00:31:00",
+        "skills":["Java"],
+        "certificate-id":"AT0M6zEIAaZMBML-EpicTLrNFu99",
+        "path":"2019/CertificateOfCompletion_First Look Java 10 And Java 11.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Instructional Design: Creating Video Training",
+        "completed":"Jan 9, 2019",
+        "length":"01:11:00",
+        "skills":["Instructional Design", "Video Training"],
+        "certificate-id":"AYkv45FB7dDdX1CeT8DAvdveQAzr",
+        "path":"2019/CertificateOfCompletion_Instructional Design Creating Video Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Java: Data Structures",
+        "completed":"Jan 6, 2019",
+        "length":"00:58:00",
+        "skills":["Java"],
+        "certificate-id":"AX98xRSJw7qmJddaG5_j9qHFyL6f",
+        "path":"2019/CertificateOfCompletion_Java Data Structures.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Java: Build Automation with Maven",
+        "completed":"Dec 29, 2018",
+        "length":"01:24:00",
+        "skills":["Java", "Apache", "Maven"],
+        "certificate-id":"Abmpx7QfqbzWs6kcSbWFar8qcbJS",
+        "path":"2018/CertificateOfCompletion_Java Build Automation With Maven.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Reactive Programming with Java 8",
+        "completed":"Dec 25, 2018 ",
+        "length":"02:46:00",
+        "skills":["Java", "Back-End Web Development"],
+        "certificate-id":"AcOJzbQMQqZHpd7twTiveroHGRMc",
+        "path":"2018/CertificateOfCompletion_Reactive Programming With Java 8.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Working with Data on the Web",
+        "completed":"Feb 16, 2014",
+        "length":"02:20:00",
+        "skills":["XML", "YAML"],
+        "certificate-id":"AXdAV2j-uAW3uz_hpsY5lx2JOMiA",
+        "path":"2014/CertificateOfCompletion_Working With Data On The Web.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Designing RESTful APIs",
+        "completed":"Jan 27, 2018",
+        "length":"01:24:00",
+        "skills":["Software Design", "Back-End Web Development", "RESTful APIs"],
+        "certificate-id":"AfjxUnNQvvJLlDZZOmZ5-phvvJel",
+        "path":"2018/CertificateOfCompletion_Designing Restful Apis.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Fusion 360 Essential Training",
+        "completed":"Dec 12, 2018",
+        "length":"11:20:00",
+        "skills":["3D Modeling", "Modeling"],
+        "certificate-id":"ARnbKGUqK4QA5rQAFWlYEEQXFLkd",
+        "path":"2018/CertificateOfCompletion_Fusion 360 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Django",
+        "completed":"May 28, 2018",
+        "length":"01:26:00",
+        "skills":["Back-End Web Development", "Django", "Python"],
+        "certificate-id":"Af9gpUqemzXUGiOJR3It6ey8nVwW",
+        "path":"2018/CertificateOfCompletion_Learning Django.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Salesforce Administrator Cert Prep: The Basics",
+        "completed":"Nov 24, 2018",
+        "length":"01:28:00",
+        "skills":["Salesforce.com", "System Administration"],
+        "certificate-id":"AfSdq4rIhbmvkHE_5zXUQRH_-9zL",
+        "path":"2018/CertificateOfCompletion_Salesforce Administrator Cert Prep The Basics.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learn Salesforce 2017: Lightning",
+        "completed":"Nov 19, 2018",
+        "length":"01:47:00",
+        "skills":["Salesforce.com", "Customer Relationship Management (CRM)"],
+        "certificate-id":"AdaUdtNajtgAFd2zrsOafPuyyJwC",
+        "path":"2018/CertificateOfCompletion_Learn Salesforce 2017 Lightning.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Salesforce Lightning Essentials: First Look",
+        "completed":"Nov 16, 2018",
+        "length":"00:14:00",
+        "skills":["Salesforce.com", "Customer Relationship Management (CRM)"],
+        "certificate-id":"AdYGAconQw9zFZdtNk2Ieh6iy6g6",
+        "path":"2018/CertificateOfCompletion_Salesforce Lightning Essentials First Look.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Cert Prep: Salesforce Certified Administrator",
+        "completed":"Nov 19, 2018",
+        "length":"01:19:00",
+        "skills":["Salesforce.com", "Customer Relationship Management (CRM)"],
+        "certificate-id":"Aec6PA0E60ebsOjmfmuTNYcfz-KN",
+        "path":"2018/CertificateOfCompletion_Cert Prep Salesforce Certified Administrator.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Composer, the PHP Dependency Manager",
+        "completed":"Nov 14, 2018",
+        "length":"00:59:00",
+        "skills":["Back-End Web Development", "PHP", "Composer", "Dependency Management"],
+        "certificate-id":"AVfO_Yb_LsFor0vTSxVNyTtMnRE0",
+        "path":"2018/CertificateOfCompletion_Learning Composer The Php Dependency Manager.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Inventory Management Foundations",
+        "completed":"Nov 14, 2018",
+        "length":"01:20:00",
+        "skills":["Operations Management"],
+        "certificate-id":"AfPAsrhl5ylx9A-rl8LEzb0UMJtn",
+        "path":"2018/CertificateOfCompletion_Inventory Management Foundations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Atlassian JIRA: Installing and Administering",
+        "completed":"Nov 13, 2018",
+        "length":"02:58:00",
+        "skills":["JIRA"],
+        "certificate-id":"AV5q3le8htfeI2Pw1Xh0th1x92l6",
+        "path":"2018/CertificateOfCompletion_Atlassian Jira Installing And Administering.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Autodesk Inventor 2019 Essential Training",
+        "completed":"Nov 7, 2018",
+        "length":"06:40:00",
+        "skills":["3D Modeling", "Autodesk Inventor"],
+        "certificate-id":"ARNCt5LXC9pY0-V8LVnO4LkTghwk",
+        "path":"2018/CertificateOfCompletion_Autodesk Inventor 2019 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"InDesign CC 2019 Essential Training",
+        "completed":"Nov 11, 2018",
+        "length":"05:23:00",
+        "skills":["Adobe InDesign"],
+        "certificate-id":"AbMohz6fCpPMOZxPEMCduX6Eghxs",
+        "path":"2018/CertificateOfCompletion_Indesign Cc 2019 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Selenium",
+        "completed":"Oct 25, 2018",
+        "length":"01:13:00",
+        "skills":["Selenium"],
+        "certificate-id":"ASd7J8Fz3UUZi-YaJIHYXrR_2HO8",
+        "path":"2018/CertificateOfCompletion_Learning Selenium.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Angular: Maintaining Applications",
+        "completed":"Oct 12, 2018",
+        "length":"00:44:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"AcdkabcLekafksQkSs75okFB6gXP",
+        "path":"2018/CertificateOfCompletion_Angular Maintaining Applications.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Introduction to AWS DeepLens",
+        "completed":"Sep 14, 2018",
+        "length":"00:33:00",
+        "skills":["Machine Learning", "Amazon Web Services"],
+        "certificate-id":"AXHqqrmx8NkK5hQZJk9o8NsrsMr1",
+        "path":"2018/CertificateOfCompletion_Introduction To Aws Deeplens.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Angular",
+        "completed":"Jul 21, 2018",
+        "length":"01:40:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"AY40HoMDFQKyGgT1K0Ff8jVMZIiD",
+        "path":"2018/CertificateOfCompletion_Learning Angular.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Ethereum: Building Blockchain Decentralized Apps (DApps)",
+        "completed":"Jul 16, 2018",
+        "length":"01:46:00",
+        "skills":["Software Design", "JavaScript"],
+        "certificate-id":"AXhXP3KQNFq7UrKtRn1c3dVl5y3n",
+        "path":"2018/CertificateOfCompletion_Ethereum Building Blockchain Decentralized Apps Dapps.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"CSS: Animation",
+        "completed":"Jul 16, 2018",
+        "length":"01:59:00",
+        "skills":["Front-end Development", "Cascading Style"],
+        "certificate-id":"AQ6xMwRhWYqE8lIbuAem37EysX55",
+        "path":"2018/CertificateOfCompletion_Css Animation.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Redux",
+        "completed":"Jul 14, 2018",
+        "length":"02:59:00",
+        "skills":["React.js", "Redux", "Front-end Development"],
+        "certificate-id":"AZW_s1TYwdH4s-D7Pf2omTad1GFm",
+        "path":"2018/CertificateOfCompletion_Learning Redux.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Electron: Building Cross Platform Desktop Apps",
+        "completed":"Jul 13, 2018",
+        "length":"03:00:00",
+        "skills":["Front-end Development", "Web Applications", "Electron", "Javascript"],
+        "certificate-id":"AVZBAOgj-L3agvZ5JQ8LFRRHVCVW",
+        "path":"2018/CertificateOfCompletion_Electron Building Cross Platform Desktop Apps.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Using Character Animator in Production",
+        "completed":"Jul 2, 2018",
+        "length":"04:48:00",
+        "skills":["Animation", "Character Animation"],
+        "certificate-id":"AZo8pxA4lDvLM1u3QD6udEvgFAwU",
+        "path":"2018/CertificateOfCompletion_Using Character Animator In Production.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Full-Stack JavaScript Development: MongoDB, Node, and React",
+        "completed":"Aug 15, 2017",
+        "length":"03:27:00",
+        "skills":["Express.js", "React.js"],
+        "certificate-id":"AbYNWjjzEwsu_F9STp6rSkSjnQP_",
+        "path":"2017/CertificateOfCompletion_Learning Full Stack Javascript Development Mongodb Node And React.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Ninja Writing: The Four Levels of Writing Mastery",
+        "completed":"Jun 17, 2018",
+        "length":"04:11:00",
+        "skills":["Writing"],
+        "certificate-id":"AaA4F2ORFrBnkUzAg6_75ZBCmQ7U",
+        "path":"2018/",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"GraphQL: Data Fetching with Relay",
+        "completed":"Jun 16, 2018",
+        "length":"02:28:00",
+        "skills":["Back-End Web Development", "Front-end", "GraphQL"],
+        "certificate-id":"AeNgJlcBkrz3sV8XwkHHCS53REfC",
+        "path":"2018/CertificateOfCompletion_Graphql Data Fetching With Relay.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"GraphQL Essential Training",
+        "completed":"Jun 14, 2018",
+        "length":"01:54:00",
+        "skills":["Back-End Web Development, Application", "GraphQL"],
+        "certificate-id":"AUNRTtrv2ECDC3Ncrya5-M-Tqaky",
+        "path":"2018/CertificateOfCompletion_Graphql Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Kubernetes",
+        "completed":"Jun 13, 2018",
+        "length":"02:19:00",
+        "skills":["Kubernetes"],
+        "certificate-id":"ASS7n3fvzmycepgFekhjWlor9jqO",
+        "path":"2018/CertificateOfCompletion_Learning Kubernetes.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Creative Inspirations: New Deal Studios, Visual Effects",
+        "completed":"Jun 10, 2018",
+        "length":"00:55:00",
+        "skills":["Video Post-Production"],
+        "certificate-id":"AR66j5AA1SSpKiXQyGAFIH4kuOV6",
+        "path":"2018/CertificateOfCompletion_Creative Inspirations New Deal Studios Visual Effects.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Selling with Stories, Part 1: What Makes a Great Story?",
+        "completed":"Jun 6, 2018",
+        "length":"01:22:00",
+        "skills":["Sales"],
+        "certificate-id":"AZL0wTjWN1J592XwZSl5rU08LDoB",
+        "path":"2018/CertificateOfCompletion_Selling With Stories Part 1 What Makes A Great Story.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Marketing Analytics: Setting and Measuring KPIs",
+        "completed":"Jun 1, 2018",
+        "length":"00:42:00",
+        "skills":["Web Analytics", "Google Analytics"],
+        "certificate-id":"AaRAkKWtyCPN734iZmYBQ4VoeRKj",
+        "path":"2018/CertificateOfCompletion_Marketing Analytics Setting And Measuring Kpis.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"C# & .NET: Programming",
+        "completed":"May 23, 2018",
+        "length":"01:14:00",
+        "skills":["Data Visualization"],
+        "certificate-id":"ASQM8Y7BtriBJXCP9tPAey0Rzja",
+        "path":"2018/CertificateOfCompletion_C Sharp Dot Net Programming.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning ArcGIS",
+        "completed":"May 14, 2018",
+        "length":"03:13:00",
+        "skills":["Data Visualization"],
+        "certificate-id":"AYpDyTkfRwt_lPGcIgh3Wg8zQQLI",
+        "path":"2018/CertificateOfCompletion_Learning Arcgis.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning SQL Server 2017",
+        "completed":"May 11, 2018",
+        "length":"01:21:00",
+        "skills":["Databases", "Microsoft SQL Server", "SQL"],
+        "certificate-id":"AfNiOJSadvJupZYIBcP0yHwzjlNu",
+        "path":"2018/CertificateOfCompletion_Learning Sql Server 2017.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"100 Courses and Counting: David Rivers on Elearning",
+        "completed":"Mar 22, 2016",
+        "length":"00:08:00",
+        "skills":["Instructional Design", "E-Learning"],
+        "certificate-id":"ASpDcjE1hnXjxaZVmCFF2Utu5-vE",
+        "path":"2016/CertificateOfCompletion_100 Courses And Counting David Rivers On Elearning.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Adding Stripe Payments to Your Ruby on Rails Application",
+        "completed":"Dec 28, 2017",
+        "length":"02:04:00",
+        "skills":["Back-End Web Development", "E-commerce", "Stripe"],
+        "certificate-id":"AZE7tz1q5CwFlsB-yffopWcGkWXJ",
+        "path":"2017/CertificateOfCompletion_Adding Stripe Payments To Your Ruby On Rails Application.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Angular 2 Forms: Data Binding and Validation",
+        "completed":"Nov 19, 2017",
+        "length":"01:17:00",
+        "skills":["JavaScript", "Front-end Development", "Angular"],
+        "certificate-id":"AYpbiLD9xg_cU8rLjjtAn7lPGkzG",
+        "path":"2017/CertificateOfCompletion_Angular 2 Forms Data Binding And Validation.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Angular Essential Training",
+        "completed":"Jul 12, 2017",
+        "length":"02:48:00",
+        "skills":["Back-End Web Development", "Front-end Development"],
+        "certificate-id":"ASZQSf63UhBRaolZgIZKiuxtqwZb",
+        "path":"2017/",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Animate CC: Storyboarding",
+        "completed":"Jan 8, 2018",
+        "length":"03:21:00",
+        "skills":["Storyboarding", "Adobe Animate"],
+        "certificate-id":"ASNAhNiBMnKj5J5EzrK39DBwNxTW",
+        "path":"2018/CertificateOfCompletion_Animate Cc Storyboarding.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Animation Foundations: Fundamentals",
+        "completed":"Feb 23, 2016",
+        "length":"00:42:00",
+        "skills":["Animation", "3D Animation", "Animation Fundamentals"],
+        "certificate-id":"AfP-ZMyaNGejV_nZ6WdcMUBKm2XH",
+        "path":"2016/CertificateOfCompletion_Animation Foundations Fundamentals.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Blender Essential Training",
+        "completed":"Sep 17, 2012",
+        "length":"09:09:00",
+        "skills":["Animation", "3D Modeling", "Blender"],
+        "certificate-id":"Aa2yKlkGGU0AR7-nKd9c7gMMEJAZ",
+        "path":"2012/CertificateOfCompletion_Blender Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Blender: Python Scripting",
+        "completed":"Mar 11, 2018",
+        "length":"02:01:00",
+        "skills":["Animation", "Blender"],
+        "certificate-id":"AUqb1-aqzHn1uTFzF8r_EWZ6VZwV",
+        "path":"2018/CertificateOfCompletion_Blender Python Scripting.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Blockchain Basics",
+        "completed":"Oct 8, 2017",
+        "length":"00:57:00",
+        "skills":["Corporate Finance", "Big Data"],
+        "certificate-id":"ASZNo_ATziz23863OWQWE95Ozm2H",
+        "path":"2017/CertificateOfCompletion_Blockchain Basics.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Bootstrap 3: Advanced Web Development",
+        "completed":"Oct 11, 2014",
+        "length":"03:28:00",
+        "skills":["Bootstrap", "Front-end Development"],
+        "certificate-id":"AWO28-n5wBhAyYbpJUaJwWpPT_Uh",
+        "path":"2014/CertificateOfCompletion_Bootstrap 3 Advanced Web Development.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Building and Deploying Deep Learning Applications with TensorFlow",
+        "completed":"Oct 12, 2017",
+        "length":"01:46:00",
+        "skills":["Machine Learning"],
+        "certificate-id":"AXDEC1a84gbvag-ENxfaU2OfQ2pz",
+        "path":"2017/CertificateOfCompletion_Building And Deploying Deep Learning Applications With Tensorflow.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Chris Korn's Digital Character Design: Start to Finish",
+        "completed":"Feb 11, 2014",
+        "length":"00:33:00",
+        "skills":["Animation", "Character Animation"],
+        "certificate-id":"AdbQGWEP8wwTrm5g_qwqjnvk41ab",
+        "path":"2014/CertificateOfCompletion_Chris Korn S Digital Character Design Start To Finish.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Creating a Finished Character Animation in Blender",
+        "completed":"Feb 27, 2016",
+        "length":"01:29:00",
+        "skills":["Animation", "Character Animation"],
+        "certificate-id":"Af6n3yeOIpueYNhzi-VwiVk_Inmw",
+        "path":"2016/CertificateOfCompletion_Creating A Finished Character Animation In Blender.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Creating Brand Identity Assets",
+        "completed":"Jan 18, 2018",
+        "length":"01:05:00",
+        "skills":["Brand Design", "Adobe Illustrator"],
+        "certificate-id":"AaECZQ4Xb6SNptyCRiwaE6WWe6Nd",
+        "path":"2018/CertificateOfCompletion_Creating Brand Identity Assets.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Creative Inspirations: Dale Herigstad & Schematic, Interactive Design Agency",
+        "completed":"Sep 8, 2014",
+        "length":"01:23:00",
+        "skills":["Interactive Web Content", "Agency Quality Work"],
+        "certificate-id":"AVQJdE0s9LJuqFmSJnNPItTTqVA",
+        "path":"2014/CertificateOfCompletion_Creative Inspirations Dale Herigstad Schematic Interactive Design Agency.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Darin McGowan: The Storyboard Artist's Life",
+        "completed":"Feb 1, 2016",
+        "length":"00:23:00",
+        "skills":["Animation", "Character Animation"],
+        "certificate-id":"AWsZuRk96_rk-9VeTMFH2U05W3u6",
+        "path":"2016/CertificateOfCompletion_Darin Mcgowan The Storyboard Artist S Life.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Data Science Foundations: Fundamentals",
+        "completed":"Nov 12, 2017",
+        "length":"03:06:00",
+        "skills":["Data Analysis"],
+        "certificate-id":"AT_XOjQIpunmMsjXqg8AOp_fcNJ4",
+        "path":"2017/CertificateOfCompletion_Data Science Foundations Fundamentals.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Drawing Vector Graphics: Color and Detail",
+        "completed":"Jan 20, 2014",
+        "length":"05:00:00",
+        "skills":["Digital Illustration", "Illustration"],
+        "certificate-id":"Aadi7c5lQaDyQboiQg99euI1cHP2",
+        "path":"2014/CertificateOfCompletion_Drawing Vector Graphics Color And Detail.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Drupal 7 Essential Training",
+        "completed":"Jan 26, 2014",
+        "length":"07:23:00",
+        "skills":["Drupal, Content Management Systems"],
+        "certificate-id":"AZD6qPHPTxMtTQdXZdGujbkjnRq4",
+        "path":"2014/CertificateOfCompletion_Drupal 7 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Electronics Foundations: Fundamentals",
+        "completed":"Jul 1, 2017",
+        "length":"01:17:00",
+        "skills":["Electronics Fundamentals"],
+        "certificate-id":"AQen7fyMeqDSK7GOZTRkXCQn0xKo",
+        "path":"2017/CertificateOfCompletion_Electronics Foundations Fundamentals.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Ethical Hacking: Exploits",
+        "completed":"Sep 3, 2017",
+        "length":"01:09:00",
+        "skills":["Linux"],
+        "certificate-id":"AR-gWbFWoqNnfwUKkTdOtCcwd0p0",
+        "path":"2017/CertificateOfCompletion_Ethical Hacking Exploits.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Freelancing Foundations",
+        "completed":"Jan 2, 2018",
+        "length":"02:12:00",
+        "skills":["Project Management"],
+        "certificate-id":"AReWVorAR8SNMc3jNfvWT3eXVUa",
+        "path":"2018/CertificateOfCompletion_Freelancing Foundations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Grammar Foundations",
+        "completed":"Oct 13, 2014",
+        "length":"02:11:00",
+        "skills":["Writing"],
+        "certificate-id":"AQMRjsXMJ-0ARk4AWCi3EACp5Ma3",
+        "path":"2014/CertificateOfCompletion_Grammar Foundations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Graphic Design Foundations: Layout and Composition",
+        "completed":"Apr 26, 2018",
+        "length":"01:35:00",
+        "skills":["Layout and Composition"],
+        "certificate-id":"AQLUCgWawlmUsfm_fStqEukKFAcZ",
+        "path":"2018/CertificateOfCompletion_Graphic Design Foundations Layout And Composition.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Hadoop for Data Science Tips, Tricks, & Techniques",
+        "completed":"Jul 12, 2017",
+        "length":"01:12:00",
+        "skills":["Apache", "Big Data"],
+        "certificate-id":"AWp3dxkNmQChyofshPKhv3b00oSG",
+        "path":"2017/CertificateOfCompletion_Hadoop For Data Science Tips Tricks Techniques.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"HTML Structured Data: Facebook Open Graph",
+        "completed":"Jun 2, 2016",
+        "length":"01:05:00",
+        "skills":["Front-end Development", "HTML"],
+        "certificate-id":"AUcZMkcL0O-batRsvEmaPFXvZVR_",
+        "path":"2016/CertificateOfCompletion_Html Structured Data Facebook Open Graph.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Illustrator CS6 Essential Training",
+        "completed":"Oct 16, 2013",
+        "length":"08:48:00",
+        "skills":["Adobe Illustrator", "Drawing"],
+        "certificate-id":"AVqk6WR4hd0fyRvB17ke9on3XEHC",
+        "path":"2013/CertificateOfCompletion_Illustrator Cs6 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Illustrator: Package Design",
+        "completed":"May 11, 2018",
+        "length":"04:26:00",
+        "skills":["Print Production", "Adobe Illustrator"],
+        "certificate-id":"ATRRzhyedPYGhY6pD_3OB0sVencT",
+        "path":"2018/CertificateOfCompletion_Illustrator Package Design.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Infographics: Planning and Wireframing",
+        "completed":"Mar 22, 2018",
+        "length":"00:40:00",
+        "skills":["Data Visualization", "Adobe Photoshop"],
+        "certificate-id":"AWYSZU_YhiFlr1vid9oRleWq-xVx",
+        "path":"2018/CertificateOfCompletion_Infographics Planning And Wireframing.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Java: Database Integration with JDBC",
+        "completed":"Feb 9, 2014",
+        "length":"02:51:00",
+        "skills":["Java", "Database Development", "JDBC"],
+        "certificate-id":"ATpuWC5lNx_O4DWLLhP50E_B2rwB",
+        "path":"2014/CertificateOfCompletion_Java Database Integration With Jdbc.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"JavaScript: Functions",
+        "completed":"Aug 23, 2014",
+        "length":"01:25:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"Aa5pgEGa0uxcWyW9BowGKGHPW7YZ",
+        "path":"2014/CertificateOfCompletion_Javascript Functions.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"JavaScript: Templating",
+        "completed":"Sep 20, 2014",
+        "length":"01:57:00",
+        "skills":["Handlebars.js", "JavaScript"],
+        "certificate-id":"AXLOvvgS1eEsgYnRxZdZtE27MA8O",
+        "path":"2014/CertificateOfCompletion_Javascript Templating.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Julia for Data Scientists First Look",
+        "completed":"Oct 16, 2017",
+        "length":"00:33:00",
+        "skills":["Data Analysis", "Data Modeling"],
+        "certificate-id":"Ac_gYIZ--ZY6znF47EUL_AL0IzZI",
+        "path":"2017/CertificateOfCompletion_Julia For Data Scientists First Look.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Kotlin for Java Developers",
+        "completed":"Oct 15, 2017",
+        "length":"02:27:00",
+        "skills":["Java","Kotlin"],
+        "certificate-id":"AbwKGLaS4aaxUcxIFLF8gqTox5ls",
+        "path":"2017/CertificateOfCompletion_Kotlin For Java Developers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Layout and Composition: Advanced Principles",
+        "completed":"Apr 26, 2018",
+        "length":"01:17:00",
+        "skills":["Layout and Composition"],
+        "certificate-id":"AbGUsFwGDf3AP_OuSR0XrT-3PINZ",
+        "path":"2018/CertificateOfCompletion_Layout And Composition Advanced Principles.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning 2D Animation Principles",
+        "completed":"Feb 13, 2016",
+        "length":"02:25:00",
+        "skills":["Animation", "Flash Professional"],
+        "certificate-id":"AZgs58e80T6ZUzQ422fKugwqsAH1",
+        "path":"2016/CertificateOfCompletion_Learning 2d Animation Principles.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning ActionScript",
+        "completed":"Sep 17, 2013",
+        "length":"02:14:00",
+        "skills":["ActionScript"],
+        "certificate-id":"Actq9hI17pWc5HLC1N2K3DPDCliy",
+        "path":"2013/CertificateOfCompletion_Learning Actionscript.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Adobe Reports and Analytics",
+        "completed":"May 3, 2016",
+        "length":"02:38:00",
+        "skills":["Adobe Analytics", "Digital Marketing"],
+        "certificate-id":"AQWtkn22Xc_p0asoy6NKgcK4j_g_",
+        "path":"2016/CertificateOfCompletion_Learning Adobe Reports And Analytics.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Algebra: Solving Equations",
+        "completed":"Nov 12, 2017",
+        "length":"04:40:00",
+        "skills":["Algebra","Equations"],
+        "certificate-id":"AaDlJZeO1V56Umhjgw3QcjKuyqGe",
+        "path":"2017/CertificateOfCompletion_Learning Algebra Solving Equations.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning AngularJS 2",
+        "completed":"Jul 22, 2017",
+        "length":"01:41:00",
+        "skills":["JavaScript", "Angular"],
+        "certificate-id":"AYcwiARase32Z3XLP2jjjZ84bSvx",
+        "path":"2017/CertificateOfCompletion_Learning Angularjs 2.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning C++ (2014)",
+        "completed":"Dec 10, 2017",
+        "length":"02:36:00",
+        "skills":["C++"],
+        "certificate-id":"AdIcEAvZIlJ3krjuhG36zQX6Q2YD",
+        "path":"2017/CertificateOfCompletion_Learning C Plus Plus 2014.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning COBOL",
+        "completed":"May 2, 2016",
+        "length":"03:04:00",
+        "skills":["COBOL"],
+        "certificate-id":"AXt_QrJ-XWHpRSFZubqWRBdSfkY8",
+        "path":"2016/CertificateOfCompletion_Learning Cobol.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Data Visualization with D3.js",
+        "completed":"Sep 13, 2017",
+        "length":"02:05:00",
+        "skills":["D3.js", "Data Visualization"],
+        "certifi2017/cate-id":"Ac5ieKPhf4dvhevRZ1JtEDF8Xk24",
+        "path":"2017/CertificateOfCompletion_Learning Data Visualization With D3 Js.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning DSLR Filmmaking",
+        "completed":"Sep 19, 2013",
+        "length":"01:10:00",
+        "skills":["Video Production", "Adobe Premiere Pro"],
+        "certificate-id":"AbJgCvdk_q_CPO0hUM76JNydTT4M",
+        "path":"2013/CertificateOfCompletion_Learning Dslr Filmmaking.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning ECMAScript 6",
+        "completed":"May 4, 2016",
+        "length":"02:04:00",
+        "skills":["JavaScript", "Front-end Development"],
+        "certificate-id":"ARy2vwKiN1PHsCPXaJCRa3-JFg_f",
+        "path":"2016/CertificateOfCompletion_Learning Ecmascript 6,pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Ember.js",
+        "completed":"Sep 18, 2014",
+        "length":"02:46:00",
+        "skills":["JavaScript", "Ember.js"],
+        "certificate-id":"AbAxWcgvckrW-dlWs52SUgNfeuNU",
+        "path":"2014/CertificateOfCompletion_Learning Ember Js.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Encore CS6",
+        "completed":"Jan 27, 2014",
+        "length":"02:27:00",
+        "skills":["Encore", "Adobe Premiere Pro"],
+        "certificate-id":"Ae2Cpee4URVEneum8vqhbLsLu2b",
+        "path":"2014/CertificateOfCompletion_Learning Encore Cs6.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning GraphQL",
+        "completed":"Jul 1, 2017",
+        "length":"00:52:00",
+        "skills":["React.js", "Back-End Web Development"],
+        "certificate-id":"AfTlGWqmcJxmTA2tlpjrAZ69i1fx",
+        "path":"2017/CertificateOfCompletion_Learning Graphql.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Lighting: Natural Light",
+        "completed":"Sep 2, 2013",
+        "length":"00:40:00",
+        "skills":["Photographic Lighting"],
+        "certificate-id":"Aex0qGzasSXCcpIjj1QL3J_VO-bk",
+        "path":"2013/CertificateOfCompletion_Learning Lighting Natural Light.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning NoSQL Databases",
+        "completed":"Jan 7, 2014",
+        "length":"00:56:00",
+        "skills":["Apache", "MongoDB"],
+        "certificate-id":"AXg-LJ8aOl8NtNzW6_Cvufw7QXLy",
+        "path":"2014/CertificateOfCompletion_Learning Nosql Databases.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Screenwriting",
+        "completed":"Oct 14, 2013",
+        "length":"02:37:00",
+        "skills":["Film Production", "Scriptwriting"],
+        "certificate-id":"AbiUpmikxlVsEDP9dDlyK74ZlknK",
+        "path":"2013/CertificateOfCompletion_Learning Screenwriting.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning to Write Marketing Copy",
+        "completed":"Oct 18, 2014",
+        "length":"01:51:00",
+        "skills":["Digital Marketing", "Advertising"],
+        "certificate-id":"AZzaVXkUvN6Z2WNFJrWj6av_n5Ev",
+        "path":"2014/CertificateOfCompletion_Learning To Write Marketing Copy.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Webpack 1",
+        "completed":"Jul 13, 2017",
+        "length":"01:02:00",
+        "skills":["Node.js", "Front-end Development"],
+        "certificate-id":"AR9vqE_xrcIPR7XLJfIra3bXkPgE",
+        "path":"2017/CertificateOfCompletion_Learning Webpack 1.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Logo Trend Report 2016-2017",
+        "completed":"Jan 20, 2018",
+        "length":"01:04:00",
+        "skills":["Logo Design"],
+        "certificate-id":"AYXute23v-eQToBlxkUiUus1kNax",
+        "path":"2018/CertificateOfCompletion_Logo Trend Report 2016 2017.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Making 3D Presentation Materials and Mockups",
+        "completed":"Apr 27, 2018",
+        "length":"00:55:00",
+        "skills":["Small Business Management"],
+        "certificate-id":"AWhHFEXRt-xJmEPA0oXzzvEHIo1_",
+        "path":"2018/CertificateOfCompletion_Making 3d Presentation Materials And Mockups.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Marketing Foundations: Growth Hacking",
+        "completed":"Apr 24, 2016",
+        "length":"01:38:00",
+        "skills":["Digital Marketing", "Content Marketing"],
+        "certificate-id":"AVpZ2swBA0ORXCTrUzw7grI98i8r",
+        "path":"2016/CertificateOfCompletion_Marketing Foundations Growth Hacking,pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Moodle 2.5 Essential Training",
+        "completed":"Jan 28, 2014",
+        "length":"02:55:00",
+        "skills":["Moodle", "Educational Technology"],
+        "certificate-id":"AdXBpaMRr_eozwbfv84a_NsA8vCT",
+        "path":"2014/CertificateOfCompletion_Moodle 2 5 Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Polyglot Web Development",
+        "completed":"Nov 23, 2017",
+        "length":"01:28:00",
+        "skills":["Back-End Web Development", "MongoDB"],
+        "certificate-id":"ARYCHZ2NrDvThr1V7M4lmhdOISr9",
+        "path":"2017/CertificateOfCompletion_Polyglot Web Development.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Print Production: Packaging",
+        "completed":"Apr 26, 2018",
+        "length":"01:47:00",
+        "skills":["Print Production", "Adobe Acrobat"],
+        "certificate-id":"AU-Hxc5T1K6aAbJQ8yO7iuWXWZAj",
+        "path":"2018/CertificateOfCompletion_Print Production Packaging.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Programming Foundations: Design Patterns (2013)",
+        "completed":"Mar 15, 2016",
+        "length":"02:19:00",
+        "skills":["Java", "Software Design"],
+        "certificate-id":"AaqSIGeZbspZCOnYKS30Ti4F1dDI",
+        "path":"2016/CertificateOfCompletion_Programming Foundations Design Patterns 2013.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Programming Foundations: Web Services",
+        "completed":"Sep 20, 2013",
+        "length":"03:17:00",
+        "skills":["Software Design", "OData"],
+        "certificate-id":"AVF6SybAe_lxnZ1ZSrGN_tcbVkM8",
+        "path":"2013/CertificateOfCompletion_Programming Foundations Web Services.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Project Management: Iterative Methods",
+        "completed":"Apr 7, 2016",
+        "length":"--:--:--",
+        "skills":["Agile Project Management"],
+        "certificate-id":"AQsxFZZIrVg7tV7sgsSUrpgoQQGM",
+        "path":"2016/CertificateOfCompletion_Project Management Iterative Methods.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Rapid Prototyping for Product Design",
+        "completed":"Nov 23, 2017",
+        "length":"01:38:00",
+        "skills":["Rapid Prototyping", "Product Design"],
+        "certificate-id":"ARIgFp0ekg2r5REvpUv3qKvxRmFx",
+        "path":"2017/CertificateOfCompletion_Rapid Prototyping For Product Design.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Real-World Design: Live Presentations from Creative Leaders",
+        "completed":"Oct 11, 2014",
+        "length":"03:17:00",
+        "skills":["Creative Design"],
+        "certificate-id":"AdWevANrJZgRS9owT3vPzVVOM5oG",
+        "path":"2014/CertificateOfCompletion_Real World Design Live Presentations From Creative Leaders.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Running a Design Business: Pricing and Estimating",
+        "completed":"Nov 15, 2013",
+        "length":"01:05:00",
+        "skills":["Small Business Management"],
+        "certificate-id":"Adkmhh3VOAxuF7qXvFathJEI5NdS",
+        "path":"2013/CertificateOfCompletion_Running A Design Business Pricing And Estimating.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Sketching for Product Design and AEC",
+        "completed":"Mar 11, 2016",
+        "length":"03:44:00",
+        "skills":["Drawing", "Product Design"],
+        "certificate-id":"AWBuezJcUucDbboB3NhzWJl3Q_T9",
+        "path":"2016/CertificateOfCompletion_Sketching For Product Design And Aec.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"SketchUp: Concept Drawings with Photoshop",
+        "completed":"Apr 5, 2018",
+        "length":"01:08:00",
+        "skills":["Architecture", "Architectural Design"],
+        "certificate-id":"AS4aM0GXb1Y6SOtNoGqcIqQzf4fT",
+        "path":"2018/CertificateOfCompletion_Sketchup Concept Drawings With Photoshop.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Story and Character Development for Animation",
+        "completed":"May 11, 2016",
+        "length":"00:15:00",
+        "skills":["Animation", "Storyboarding"],
+        "certificate-id":"AdN_Qpx6u0bUuBHWj25L91bD2o7Z",
+        "path":"2016/CertificateOfCompletion_Story And Character Development For Animation.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Universal Principles of Design",
+        "completed":"Apr 5, 2016",
+        "length":"05:29:00",
+        "skills":["Design Thinking", "Product Design"],
+        "certificate-id":"AYZY2xLTt5OlBqmi6ZXlDDVL9sla",
+        "path":"2016/CertificateOfCompletion_Universal Principles Of Design.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Upgrading to Angular 1.6",
+        "completed":"Jul 2, 2017",
+        "length":"01:09:00",
+        "skills":["JavaScript","Angular"],
+        "certificate-id":"ASozNRajufFrw6Lb1Sbj22oCgx6E",
+        "path":"2017/CertificateOfCompletion_Upgrading To Angular 1 6.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Video Foundations: Interviews",
+        "completed":"Mar 16, 2014",
+        "length":"01:55:00",
+        "skills":["Video Production", "Shooting Video"],
+        "certificate-id":"ARvAEd9ABtjTKR2OCC7dgYZahr7n",
+        "path":"2014/CertificateOfCompletion_Video Foundations Interviews.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Video Script Writing",
+        "completed":"Mar 16, 2014",
+        "length":"02:10:00",
+        "skills":["Video Production", "Scriptwriting"],
+        "certificate-id":"AfDT2YpBWaeNcsz4nJHwv7IfKcCQ",
+        "path":"2014/CertificateOfCompletion_Video Script Writing.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Web Motion: Create a Parallax Effect",
+        "completed":"Sep 28, 2014",
+        "length":"00:40:00",
+        "skills":["Flash Professional", "Interactive Web"],
+        "certificate-id":"AZjfyNjMO70vXSRiNw26C8m1ykVY",
+        "path":"2014/CertificateOfCompletion_Web Motion Create A Parallax Effect.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"WebSocket Programming with Java EE",
+        "completed":"Jan 16, 2018",
+        "length":"01:29:00",
+        "skills":["Java", "Back-End Web Development"],
+        "certificate-id":"Afz0AForZnf7um8R0_9ZGGWzC1RX",
+        "path":"2018/CertificateOfCompletion_Websocket Programming With Java Ee.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"WordPress: REST API",
+        "completed":"Feb 11, 2018",
+        "length":"02:06:00",
+        "skills":["Back-End Web Development", "Content"],
+        "certificate-id":"Aaa25fChfJgQiNocjzPl3YHXF8l2",
+        "path":"2018/CertificateOfCompletion_Wordpress Rest Api.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Writing: The Craft of Story",
+        "completed":"Feb 9, 2014",
+        "length":"01:59:00",
+        "skills":["Writing"],
+        "certificate-id":"AZTY9_XakNxj4yOqVsGWE2elFp60",
+        "path":"2014/CertificateOfCompletion_Writing The Craft Of Story.pdf",
+        "provider":"Linkedin Learning"
+    }
+    {
+        "course":"AWS Cloud Pratitioner Essentials (Digital)",
+        "completed":"Aug 10, 2018",
+        "length":"07:00:00",
+        "skills":["AWS Services"],
+        "certificate-id":"None",
+        "path":"AWS/AWS Cloud Practitioner Essentials (Digital) - Clayton Barnette.pdf",
+        "provider":"Amazon Web Services (AWS)"
+    }
+]
