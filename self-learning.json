@@ -1411,7 +1411,7 @@
         "certificate-id":"AZTY9_XakNxj4yOqVsGWE2elFp60",
         "path":"2014/CertificateOfCompletion_Writing The Craft Of Story.pdf",
         "provider":"Linkedin Learning"
-    }
+    },
     {
         "course":"AWS Cloud Pratitioner Essentials (Digital)",
         "completed":"Aug 10, 2018",
@@ -1429,5 +1429,14 @@
         "certificate-id":"ATGHCuzWYxnvlp1W6DAYB_ue5GuV",
         "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
         "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Thermally Fused Laminate (TFL) Decorative Panels: Attractive, Durable, & Sustainable",
+        "completed":"Nov 11, 2018",
+        "length":"01:00:00",
+        "skills":["Thermally Fused Laminate (TFL)"],
+        "certificate-id":"AEC865 (CP-EN-86503-0219)",
+        "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
+        "provider":"AEC Daily Corporation"
     }
 ]
