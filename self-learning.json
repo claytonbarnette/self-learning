@@ -1420,5 +1420,14 @@
         "certificate-id":"None",
         "path":"AWS/AWS Cloud Practitioner Essentials (Digital) - Clayton Barnette.pdf",
         "provider":"Amazon Web Services (AWS)"
+    },
+    {
+        "course":"Learning Screenwriting with Final Draft 9",
+        "completed":"May 13, 2019",
+        "length":"01:38:00",
+        "skills":["Final Draft", "Screenwriting"],
+        "certificate-id":"ATGHCuzWYxnvlp1W6DAYB_ue5GuV",
+        "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
+        "provider":"Linkedin Learning"
     }
 ]
