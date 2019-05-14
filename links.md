@@ -4,7 +4,8 @@
 
 
 # The Base 6 Languages (PPNRGJ)
-These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"Peanut Butter and Grape Jelly (Jam)"* Stack.  
+These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"Peanut Butter and Grape Jelly (Jam)"* Stack. You have to know one one of these to be functional as a developer.
+ 
 - **[Python]**
 - **[PHP]**
 - **[Node.js] (Javascript)**
@@ -31,12 +32,14 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Aurelia]** (Javascript)
 - **[Sails]** (Javascript)
 - **[Grails]** (Groovy / Java)
-- **[Ruby on Rails]** (Ruby)
+- **[Ruby on Rails]** (Ruby + Rails)
 - **[Laravel]** (PHP)
 - **[Synfony]** (PHP)
+- **[Zend]** (PHP)
 - **[Yii]** (PHP)
 - **[Flask]** (Python)
 - **[Django]** (Python)
+- **[Spring]** (Java)
 
 # Dependency and Version Management
 - **[NPM]** (Node Module Dependency)
@@ -65,15 +68,13 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Sass]** (CSS Preprocess Task Management)
 
 
-
-
 <!-- Base 6 Reference  -->
 [Go]: https://golang.org/
 [Python]: http://www.python.org
 [Ruby]: https://www.ruby-lang.org/en/
 [PHP]: http://www.php.net
 [Node.js]: https://nodejs.org/en/
-[Java]: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Java]: https://docs.oracle.com/en/java/javase/12/
 
 <!-- Good to Know -->
 [Rust]: https://www.rust-lang.org/
@@ -101,6 +102,8 @@ These Programming Languages are what I call the base 6 because the are supported
 [Flask]: http://flask.pocoo.org/
 [Django]: https://www.djangoproject.com/
 [Typescript]: https://www.typescriptlang.org/
+[Spring]: https://spring.io/
+[Zend]: https://framework.zend.com/
 
 <!-- Dependency and Version Management -->
 [NPM]: https://www.npmjs.com/
