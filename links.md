@@ -4,7 +4,7 @@
 
 
 # The Base 6 Languages (PPNRGJ)
-These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"Peanut Butter and GRape Jelly (Jam)"* Stack. You have to know one one of these to be functional as a developer.
+These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"PPeanut butter aNd GRape Jelly (or Jam)"* Stack. You have to know one one of these to be functional as a developer.
 
 - **[Python]**
 - **[PHP]**
