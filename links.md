@@ -20,6 +20,7 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Kotlin]** (JVM)
 - **[Groovy]** (JVM)
 - **[Scala]** (JVM)
+- **[Graal]** (JVM / DSL / Compiler / LSP)
 
 # Frameworks
 - **[Angular]** (Javascript)
@@ -64,6 +65,24 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Less]** (CSS Preprocess Task Management)
 - **[Sass]** (CSS Preprocess Task Management)
 
+# IDEs and Editors
+
+- **[VS Code]** (Microsoft Open Source Code Editor)
+- **[Sublime Text]** (Editor for Mac and PC)
+- **[Atom]** (Open Source Editor by Github)
+- **[Visual Studio CE]** (Community Edition of Microsft's Flagship IDE)
+- **[Eclipse]** (Eclipse IDE -- See other editors for Java, C++, Rust, J2EE, Reports)
+- **[Eclipse Scout]** (Business Applications)
+- **[Netbeans]** (Open Source Editor by Apache)
+- **[Brackets]** (Open Source Editor by Adobe)
+
+# DSL (Domain-Specific Language) Development and such...
+- **[Xtext]** (Open Source DSL Development Framework)
+- **[Antlr]** (Open Source DSL Development Framework)
+- **[Truffle]** (Open Source DSL Development Framework)
+- **[LSP]** (Language Server Protocol)
+
+
 
 
 
@@ -84,6 +103,7 @@ These Programming Languages are what I call the base 6 because the are supported
 [Kotlin]: https://kotlinlang.org/
 [Groovy]: http://groovy-lang.org/
 [Scala]: https://www.scala-lang.org/
+[Graal]:https://www.graalvm.org/
 
 <!-- Frameworks -->
 [Angular]:http://angular.io
@@ -127,3 +147,19 @@ These Programming Languages are what I call the base 6 because the are supported
 [Grunt]:https://gruntjs.com/
 [Less]: http://lesscss.org/
 [Sass]: https://sass-lang.com/
+
+<!--  IDEs -->
+[VS Code]:https://code.visualstudio.com/
+[Eclipse Scout]: https://www.eclipse.org/scout/
+[Visual Studio CE]:https://visualstudio.microsoft.com/vs/community/
+[Eclipse]:https://www.eclipse.org/
+[Atom]: https://atom.io/
+[Brackets]: http://brackets.io/
+[Netbeans]: https://netbeans.org/
+[Sublime Text]: https://www.sublimetext.com/
+
+<!-- DSL Development -->
+[Xtext]: https://www.eclipse.org/Xtext/index.html
+[Antlr]: https://www.antlr.org/
+[Truffle]: https://www.graalvm.org/docs/graalvm-as-a-platform/
+[LSP]: https://microsoft.github.io/language-server-protocol/
