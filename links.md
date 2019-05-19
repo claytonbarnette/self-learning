@@ -69,7 +69,6 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Sass]** (CSS Preprocess Task Management)
 
 # IDEs and Editors
-
 - **[VS Code]** (Microsoft Open Source Code Editor)
 - **[Sublime Text]** (Editor for Mac and PC)
 - **[Atom]** (Open Source Editor by Github)
