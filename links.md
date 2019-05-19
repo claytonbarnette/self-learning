@@ -3,7 +3,7 @@
 *Below are links to websites, YouTube Channels, and other resources on the web I use to keep up with the ever changing landscape of the web. Let me know if you run into broken links.*
 
 ## Sections
-1. [Base 6 Languages](#the-base-6-languages-(ppngrj))
+1. [Base 6 Languages](#the-base-6-languages)
 2. [Good to Know](#good-to-know)
 3. [Frameworks](#frameworks)
 4. [Dependencies and Version Management](#dependency-and-version-management)
@@ -13,8 +13,8 @@
 8. [Source Code Heaven](#source-code-heaven)
 
 
-# The Base 6 Languages (PPNGRJ)
-These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"PPeanut butter aNd GRape Jelly (or Jam)"* Stack. You have to know one one of these to be functional as a developer.
+# The Base 6 Languages 
+These 6 Programming Languages are what I call the **"Base 6"** languages because they are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"PPeanut butter aNd GRape Jelly (or Jam)"* Stack (PPNGRJ). You have to know one one of these to be functional as a developer.
 
 - **[Python]**
 - **[PHP]**
