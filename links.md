@@ -3,7 +3,7 @@
 *Below are links to websites, YouTube Channels, and other resources on the web I use to keep up with the ever changing landscape of the web. Let me know if you run into broken links.*
 
 ## Sections
-1. [Base 6 Languages](#the-base-6-languages-(PPNRGJ))
+1. [Base 6 Languages](#the-base-6-languages-(PPNGRJ))
 2. [Good to Know](#good-to-know)
 3. [Frameworks](#frameworks)
 4. [Dependencies and Version Management](#dependency-and-version-management)
