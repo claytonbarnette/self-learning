@@ -2,8 +2,18 @@
 
 *Below are links to websites, YouTube Channels, and other resources on the web I use to keep up with the ever changing landscape of the web. Let me know if you run into broken links.*
 
+## Sections
+1. [Base 6 Languages](#the-base-6-languages-(PPNRGJ))
+2. [Good to Know](#good-to-know)
+3. [Frameworks](#frameworks)
+4. [Dependencies and Version Management](#dependency-and-version-management)
+5. [Package and Task Management](#package-and-task-management)
+6. [IDEs and Editors](#ides-and-editors)
+7. [DSL (Domain-Specific Language) Development and such...](#dsl-development)
+8. [Source Code Heaven](#source-code-heaven)
 
-# The Base 6 Languages (PPNRGJ)
+
+# The Base 6 Languages (PPNGRJ)
 These Programming Languages are what I call the base 6 because the are supported by most of the cloud providers GCP, Azure, AWS, IBM and others. I refer to this language stack as the *"PPeanut butter aNd GRape Jelly (or Jam)"* Stack. You have to know one one of these to be functional as a developer.
 
 - **[Python]**
@@ -12,6 +22,8 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Go]** 
 - **[Ruby]**
 - **[Java]**
+
+[^ Back to Top](#sections)
 
 # Good to Know
 - **[Rust]** ( a must read: [The Rust Book] )
@@ -22,6 +34,8 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Groovy]** (JVM)
 - **[Scala]** (JVM)
 - **[Graal]** (JVM / DSL / Compiler / LSP)
+
+[^ Back to Top](#sections)
 
 # Frameworks
 - **[Angular]** (Javascript)
@@ -40,7 +54,9 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Yii]** (PHP)
 - **[Flask]** (Python)
 - **[Django]** (Python)
-- **[Spring]** (Java)
+- **[Spring Boot]** (Java)
+
+[^ Back to Top](#sections)
 
 # Dependency and Version Management
 - **[NPM]** (Node Module Dependency)
@@ -61,12 +77,16 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Gradle]** (Java Dependency)
 - **[Pear]** (PHP Packages Management)
 
+[^ Back to Top](#sections)
+
 # Package and Task Management
 - **[Webpack]** (Package and Task Management)
 - **[Gulp]** (Package and Task Management)
 - **[Grunt]** (Package and Task Management)
 - **[Less]** (CSS Preprocess Task Management)
 - **[Sass]** (CSS Preprocess Task Management)
+
+[^ Back to Top](#sections)
 
 # IDEs and Editors
 - **[VS Code]** (Microsoft Open Source Code Editor)
@@ -78,11 +98,18 @@ These Programming Languages are what I call the base 6 because the are supported
 - **[Netbeans]** (Open Source Editor by Apache)
 - **[Brackets]** (Open Source Editor by Adobe)
 
-# DSL (Domain-Specific Language) Development and such...
+[^ Back to Top](#sections)
+
+# DSL Development
 - **[Xtext]** (Open Source DSL Development Framework)
 - **[Antlr]** (Open Source DSL Development Framework)
 - **[Truffle]** (Open Source DSL Development Framework)
 - **[LSP]** (Language Server Protocol)
+
+[^ Back to Top](#sections)
+
+# Source Code Heaven
+- **[ASF]** (Apache Software Foundation Gitbox)
 
 
 
@@ -121,7 +148,7 @@ These Programming Languages are what I call the base 6 because the are supported
 [Flask]: http://flask.pocoo.org/
 [Django]: https://www.djangoproject.com/
 [Typescript]: https://www.typescriptlang.org/
-[Spring]: https://spring.io/
+[Spring Boot]: https://spring.io/projects/spring-boot
 [Zend]: https://framework.zend.com/
 
 <!-- Dependency and Version Management -->
@@ -165,3 +192,6 @@ These Programming Languages are what I call the base 6 because the are supported
 [Antlr]: https://www.antlr.org/
 [Truffle]: https://www.graalvm.org/docs/graalvm-as-a-platform/
 [LSP]: https://microsoft.github.io/language-server-protocol/
+
+<!-- Source Code Heaven -->
+[ASF]: https://gitbox.apache.org/repos/asf
