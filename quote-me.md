@@ -22,7 +22,7 @@ My nick name is "Merc", short for Mercury.
 
 - *It is better to spend a year learning what I know, than to spend a hour trying to learn everything from me. -- Clayton Barnette*
 
-- *Those that can change the world, do change the world, by trying. -- Merc.*
+- *Those that can change the world, change the world, by trying. -- Merc.*
 
 - *My success is not dependent on your ability to understand me. -- Clayton Barnette*
 
