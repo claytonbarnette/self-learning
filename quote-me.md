@@ -16,7 +16,7 @@ My nick name is "Merc", short for Mercury.
 
 - *People are software... -- Clayton*
 
-- *The less you want to know and understand the more I understand why I always need to know more. -- Clayton Barnette*
+- *The less you want to know and understand, the more I understand why I always need to know more. -- Clayton Barnette*
 
 - *Fame feeds on your soul. -- Merc.*
 
@@ -34,9 +34,11 @@ My nick name is "Merc", short for Mercury.
 
 - *If your normal is kicking butt, do more normal. -- Merc.* 
 
-- *Those that want to be left behind, choose to be food for zombies... -- Merc.*
+- *Those that choose to be left behind, choose to be food for zombies... -- Merc.*
 
 - *If you say I don't understand, then it's time to stop talking and start listening...
 -- Clayton Barnette*
 
-- *Starting a sentence with: "I don't care" in an debate nullifies the purpose of the debate in the first place. Debates should be about which solution, not about reestablishing that there is or was a problem. -- Merc.*
+- *In a debate, starting a sentence with **"I don't care..."** at the beginning of your argument, nullifies the purpose of the debate in the first place. Debates should be about which solution, not about the fact that there was or is a problem. -- Merc.*
+
+- *Manipulating a person into something forces that person into an environment that changes that person's normal character response to that given situation or circumstance. Don't be surprised if that person decides to do something outside of their own character to return the situation and/or circumstance back to normal. -- Clayton Barnette*
