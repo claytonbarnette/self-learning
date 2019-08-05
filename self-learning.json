@@ -1422,15 +1422,6 @@
         "provider":"Amazon Web Services (AWS)"
     },
     {
-        "course":"Learning Screenwriting with Final Draft 9",
-        "completed":"May 13, 2019",
-        "length":"01:38:00",
-        "skills":["Final Draft", "Screenwriting"],
-        "certificate-id":"ATGHCuzWYxnvlp1W6DAYB_ue5GuV",
-        "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
-        "provider":"Linkedin Learning"
-    },
-    {
         "course":"Thermally Fused Laminate (TFL) Decorative Panels: Attractive, Durable, & Sustainable",
         "completed":"Nov 11, 2018",
         "length":"01:00:00",
@@ -1438,5 +1429,113 @@
         "certificate-id":"AEC865 (CP-EN-86503-0219)",
         "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
         "provider":"AEC Daily Corporation"
+    },
+    {
+        "course":"BigCommerce Essential Training",
+        "completed":"Jul 23, 2019",
+        "length":"01:31:00",
+        "skills":["E-Commerce", "Big Commerce", "Online Store Setup"],
+        "certificate-id":"ASTlg0bL79eCMkYsFJ5seBiOLIqW",
+        "path":"2019/CertificateOfCompletion_Bigcommerce Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Creating Web Icons with SVG",
+        "completed":"Jul 12, 2019",
+        "length":"01:44:00",
+        "skills":["SVG", "Icons", "Graphics", "CSS"],
+        "certificate-id":"AVNVScciajZQIVDJ65tCXey7K6rR",
+        "path":"2019/CertificateOfCompletion_Creating Web Icons With Svg.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Design the Web: CSS Animated Rollovers",
+        "completed":"Aug 5, 2019",
+        "length":"00:29:00",
+        "skills":["CSS", "CSS Animation", "Web Graphics","SVG"],
+        "certificate-id":"AbesXFKXrhR57xji6YyOBC2mJE1e",
+        "path":"2019/CertificateOfCompletion_Design The Web Css Animated Rollovers.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Design the Web: Responsive SVG Images",
+        "completed":"Aug 5, 2019",
+        "length":"00:22:00",
+        "skills":["SVG", "Responsive SVG Images", "CSS"],
+        "certificate-id":"AbkvnYgraH8_Uh5eAlQYrKDCl4VE",
+        "path":"2019/CertificateOfCompletion_Design The Web Responsive Svg Images.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Design the Web: Using Symbols in SVG",
+        "completed":"Aug 5, 2019",
+        "length":"00:20:00",
+        "skills":["SVG", "CSS","Stylesheets in SVGs"],
+        "certificate-id":"AUOnloX3SUDNyFXxnjqW9ZHhAlQ8",
+        "path":"2019/CertificateOfCompletion_Design The Web Using Symbols In Svg.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Kafka Essential Training",
+        "completed":"Jul 23, 2019",
+        "length":"01:20:00",
+        "skills":["Kafka Basics", "Network Overview"],
+        "certificate-id":"Aei7N19RT4_knoEPRH7WzLwhIE4W",
+        "path":"2019/CertificateOfCompletion_Kafka Essential Training.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning Screenwriting with Final Draft 9",
+        "completed":"May 13, 2019",
+        "length":"01:38:00",
+        "skills":["Final Draft 9", "Basic Screenwriting", "Format", "Settings"],
+        "certificate-id":"ATGHCuzWYxnvlp1W6DAYB_ue5GuV",
+        "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning C#",
+        "completed":"Jul 2, 2019",
+        "length":"03:04:00",
+        "skills":["C#", "Language and Syntax"],
+        "certificate-id":"ATug4dAvA-e85F8x37X-etPyloHB",
+        "path":"2019/CertificateOfCompletion_Learning C Sharp 3.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Learning TensorFlow with JavaScript",
+        "completed":"Jun 29, 2019",
+        "length":"00:57:00",
+        "skills":["Machine Learning", "TensorFlow", "JavaScript"],
+        "certificate-id":"ATBW_jQgHi6jLwixmdN9TXs0XI8l",
+        "path":"2019/CertificateOfCompletion_Learning Tensorflow With Javascript.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"The Monster Drawing Workshop",
+        "completed":"May 23, 2019",
+        "length":"01:00:00",
+        "skills":["Drawing", "Cardboard Modeling"],
+        "certificate-id":"AQhtDPOgdB9b6mPtvk_o-P7wJu3U",
+        "path":"2019/CertificateOfCompletion_The Monster Drawing Workshop.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Time-Saving Tips Using Illustrator CC",
+        "completed":"Jun 30, 2019",
+        "length":"01:45:00",
+        "skills":["Illustrator", "Composit Tips and Tricks"],
+        "certificate-id":"AQH99qwZfvQqHaqW_D-m-XsW82VX",
+        "path":"2019/CertificateOfCompletion_Time Saving Tips Using Illustrator Cc.pdf",
+        "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Workshop Facilitation",
+        "completed":"Jul 2, 2019",
+        "length":"01:09:00",
+        "skills":["Workshop Basics", "Workshop Setup", "Workshop Format"],
+        "certificate-id":"AWc0q80XTpUA5Uurl5ld6rAp07I3",
+        "path":"2019/CertificateOfCompletion_Workshop Facilitation.pdf",
+        "provider":"Linkedin Learning"
     }
 ]
