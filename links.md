@@ -94,6 +94,7 @@ These 6 Programming Languages are what I call the **"Base 6"** languages because
 - **[Atom]** (Open Source Editor by Github)
 - **[Visual Studio CE]** (Community Edition of Microsft's Flagship IDE)
 - **[Eclipse]** (Eclipse IDE -- See other editors for Java, C++, Rust, J2EE, Reports)
+- **[Oracle Developer Studio]** (Oracle's IDE)
 - **[Eclipse Scout]** (Business Applications)
 - **[Netbeans]** (Open Source Editor by Apache)
 - **[Brackets]** (Open Source Editor by Adobe)
@@ -182,6 +183,7 @@ These 6 Programming Languages are what I call the **"Base 6"** languages because
 [Eclipse Scout]: https://www.eclipse.org/scout/
 [Visual Studio CE]:https://visualstudio.microsoft.com/vs/community/
 [Eclipse]:https://www.eclipse.org/
+[Oracle Developer Studio]: https://www.oracle.com/technetwork/server-storage/solarisstudio/features/ide-2332482.html
 [Atom]: https://atom.io/
 [Brackets]: http://brackets.io/
 [Netbeans]: https://netbeans.org/

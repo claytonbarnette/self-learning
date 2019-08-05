@@ -1438,5 +1438,14 @@
         "certificate-id":"AEC865 (CP-EN-86503-0219)",
         "path":"2019/CertificateOfCompletion_Learning Screenwriting With Final Draft 9.pdf",
         "provider":"AEC Daily Corporation"
+    },
+    {
+        "course":"",
+        "completed":" , 2019",
+        "length":"00:00:00",
+        "skills":[""],
+        "certificate-id":"",
+        "path":"2019/",
+        "provider":"Linkedin Learning"
     }
 ]
