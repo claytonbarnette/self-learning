@@ -1537,5 +1537,14 @@
         "certificate-id":"AWc0q80XTpUA5Uurl5ld6rAp07I3",
         "path":"2019/CertificateOfCompletion_Workshop Facilitation.pdf",
         "provider":"Linkedin Learning"
+    },
+    {
+        "course":"Inclusive Playgrounds: Designing Spaces to Bring Children & Communities Together",
+        "completed":"Sep 11, 2019",
+        "length":"01:00:00",
+        "skills":["Playground Design", "Inclusive Playgrounds"],
+        "certificate-id":"1815351-28888",
+        "path":"2019/Playgrounds - Designing Spaces to Bring Children & Communities Together.pdf",
+        "provider":"AEC Daily Corporation"
     }
 ]
