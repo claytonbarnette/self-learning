@@ -61,7 +61,7 @@ These 6 Programming Languages are what I call the **"Base 6"** languages because
 
 [^ Back to Top](#sections)
 
-# Dependency and Version Management
+# Dependency and Package Management
 - **[NPM]** (Node Module Dependency)
 - **[NVM]** (Node Versions Management)
 - **[Gem]** (Ruby Package Management)
