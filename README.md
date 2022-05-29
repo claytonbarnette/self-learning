@@ -13,7 +13,7 @@ Here is a list of resources I use to lean and keep up with the ever-changing lan
 
 - [Resources and Links](links.md)
 
-## What dose this all mean?
+## What does this all mean?
 As an possible employee, I'm at least up-to-date on the latest that is out there and open to learning new things. It also means that the experience that I've gained over the years also serve as a resource for both the company and my co-workers/team. For some technologies it is hard to have 5 years of experience on a 2 year-old open source technology that just reached version 1.0. What I bring to the table is an open mind to what is possible, and a willingness to do the work to make it work for both the company and the community as a whole.
 
 ## Quote Me
@@ -25,4 +25,4 @@ As an possible employee, I'm at least up-to-date on the latest that is out there
 *All rights reserved to their respective copyright holders, information presented here is for informational and educational purposes only.*
 
 
-[Clayton Barnette](mainto:claytonbarnette@gmail.com) &copy; 2012 - 2021
+[Clayton Barnette](mainto:claytonbarnette@gmail.com) &copy; 2012 - 2022
